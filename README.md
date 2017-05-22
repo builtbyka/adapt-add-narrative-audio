@@ -4,9 +4,7 @@
 
 Needs Adapt Framework Narrative & Media Element. Adds audio to the text part of the narrative component
 
-Example JSON - place inside component.json. Include "_media" 
-
-in narrative items
+Example JSON - place inside component.json. Include "_media" in narrative items
 
 ```
  {
