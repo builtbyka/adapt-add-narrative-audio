@@ -24,7 +24,7 @@ Example JSON - place inside component.json alongside media options
         "_setCompletionOn":"allItems",
         "_items": [
             {
-				"title": "Narrative stage 1 title",
+		"title": "Narrative stage 1 title",
                 "titleReduced": "Reduced title",
                 "body": "This is display text 1. If viewing on desktop or tablet, this text will appear to the right of the image. On mobile, you’ll need to select the plus icon to reveal this text.",
                 "bodyReduced": "Reduced text",
@@ -34,8 +34,8 @@ Example JSON - place inside component.json alongside media options
                 },
                 "strapline": "Here is the first...",
                 "_media": {
-                    "mp3": "course/en/audio/phonebill.mp3",
-					"ogg": "course/en/audio/phonebill.mp3"
+                    	"mp3": "course/en/audio/phonebill.mp3",
+			"ogg": "course/en/audio/phonebill.mp3"
                 }
             },
             {
