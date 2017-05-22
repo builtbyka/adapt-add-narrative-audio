@@ -1,0 +1,17 @@
+{
+    "name": "adapt-add-narrative-audio",
+    "repository": "",
+    "framework": "^1.0.0",
+    "version": "1.0.0",
+    "homepage": "",
+    "issues": "",
+    "displayName": "Switching text for audio in narrative component",
+    "extension": "Switching text for audio in narrative component",
+    "description": "Switching text for audio in narrative component",
+    "main": "/js/adapt-add-narrative-audio.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3"
+}
